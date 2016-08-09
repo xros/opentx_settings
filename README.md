@@ -12,7 +12,7 @@ Here I added some templates for OpenTX settings.
 
 My radio is a Fr-sky Taranis X9D Plus. Until now it has been flash with firmware OpenTX 2.1.8 . 
 
-I added a splash templates. 
+I added splash templates. 
 
 #### Radio when booting up
 

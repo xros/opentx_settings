@@ -1,6 +1,8 @@
 OpenTX Settings
 ===============
 
+[Alexander Liu](https://github.com/xros)
+
 [OpenTX](http://www.open-tx.org) is an opensource radio control system.
 
 It provides radio transmitter firmware, and radio transmitter PC software for simulation.
@@ -12,11 +14,15 @@ My radio is a Fr-sky Taranis X9D Plus. Until now it has been flash with firmware
 
 I added a splash templates. 
 
-It looks like this:
+#### Radio when booting up
+
+![mylogo_radio](static/taranis_x9d_plus.png)
+
+The welcome splash image
 
 ![mylogo](mylogoxcf_20160809.png)
 
-Every one can modify this image **mylogoxcf_20160809.xcf** using the opensource image editor [gimp](http://www.gimp.org).
+Every one can modify this image **`mylogoxcf_20160809.xcf`** using the opensource image editor [gimp](http://www.gimp.org).
 
 
 Getting into bootloader
@@ -39,7 +45,7 @@ Choose "Write Firmware".
 
 Optionally choose "Restore EEPROM".
 
-Or we can do all these things in PC software [Companion](http://www.open-tx.org/downloads)
+Or we can do all these things in PC software [Companion](http://www.open-tx.org/downloads). Companion can change the splash image very easily.
 
 Flash bootloader
 ----------------

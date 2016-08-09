@@ -33,3 +33,8 @@ Choose "Write Firmware".
 Optionally choose "Restore EEPROM".
 
 Or we can do all this in PC software [Companion](http://www.open-tx.org/downloads)
+
+Flash bootloader
+----------------
+
+Copy `bootloader/213.bin` to SD card. Hold key **Menu** to get into Setup Menu then change tap **Page** to navigate into File Manager on Taranis. Select the file `213.bin` then flash bootloader.

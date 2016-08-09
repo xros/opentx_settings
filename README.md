@@ -52,6 +52,6 @@ Flash bootloader
 
 Firmware ships with bootloader by default.
 
-Here's an older version stable bootloader `213.bin`. If you want to flash the lastest bootloader, you can flash bootloader from the firmware in OpenTX radio system.
+Here's an older version stable bootloader `213.bin`. If you want to flash the latest bootloader, you can flash bootloader from the firmware in OpenTX radio system.
 
 Copy `bootloader/213.bin` to SD card. Hold key **MENU** to get into Setup Menu then change tap **PAGE** to navigate into File Manager on Taranis. Select the file `213.bin` then flash bootloader.

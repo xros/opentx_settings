@@ -26,13 +26,20 @@ Getting into bootloader
 
 Use taranis as a USB storage drive and save the firmware and settings on it.
 
+Attention: name of firmware can't not be too long. I used "opentx-en-2.1.8.bin" to replace its original name "opentx-taranisplus-timer3-lua-mixersmon-internalppm-en-2.1.8.bin".
+
 Then restart and get into bootloader interface again. 
+
+Flash firmware
+--------------
+
+In bootloader interface,
 
 Choose "Write Firmware".
 
 Optionally choose "Restore EEPROM".
 
-Or we can do all this in PC software [Companion](http://www.open-tx.org/downloads)
+Or we can do all these things in PC software [Companion](http://www.open-tx.org/downloads)
 
 Flash bootloader
 ----------------

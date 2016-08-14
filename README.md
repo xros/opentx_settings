@@ -43,7 +43,7 @@ In bootloader interface,
 
 Choose "Write Firmware".
 
-Optionally choose "Restore EEPROM".
+Optionally choose "Restore EEPROM". ( I added an EEPROM in `eeprom/*.bin` supported the opensource APM Flight Controller and simulator for Phoenix 5.0 +)
 
 Or we can do all these things in PC software [Companion](http://www.open-tx.org/downloads). Companion can change the splash image very easily.
 

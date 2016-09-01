@@ -44,7 +44,7 @@ After getting into the bootloader, try to connect your radio to computer. It wil
 Then use Companion to load the image to your radio along with the firmware. Info from [here](http://www.open-tx.org/screens-taranis.html)
 
 
-Personalize poweron voice
+Play music on your radio
 -----------------------
 
 On the SD card, go to find file in `SOUNDS/en/SYSTEM/tada.wav` and replace it with yours. 
@@ -53,7 +53,7 @@ On the SD card, go to find file in `SOUNDS/en/SYSTEM/tada.wav` and replace it wi
 
 Here I put a voice sample here in this repo [static/tada.wav](https://github.com/xros/opentx_settings/tree/master/static).
 
-#### How to make yours?
+#### Personalize poweron voice -- Make your own voice
 
 ![audacity](static/audacity.png)
 

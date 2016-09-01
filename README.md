@@ -10,7 +10,7 @@ It provides radio transmitter firmware, and radio transmitter PC software for si
 
 Here I added some templates for OpenTX settings.
 
-My radio is a Fr-sky Taranis X9D Plus. Until now it has been flash with firmware OpenTX 2.1.8 . 
+My radio is a Fr-sky Taranis X9D Plus. Until now it has been flashed with firmware OpenTX 2.1.8 . 
 
 I added splash templates. 
 

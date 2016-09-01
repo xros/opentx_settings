@@ -49,7 +49,7 @@ On the SD card, go to find file in `SOUNDS/en/SYSTEM/tada.wav` and replace it wi
 
 ![demo tada](static/tada.png)
 
-Here I put an sample here in this repo ![`static/tada.wav`](https://github.com/xros/opentx_settings/static/).
+Here I put an sample here in this repo ![`static/tada.wav`](https://github.com/xros/opentx_settings/tree/master/static).
 
 
 

@@ -51,7 +51,7 @@ On the SD card, go to find file in `SOUNDS/en/SYSTEM/tada.wav` and replace it wi
 
 ![demo tada](static/tada.png)
 
-Here I put a voice sample here in this repo ![static/tada.wav](https://github.com/xros/opentx_settings/tree/master/static).
+Here I put a voice sample here in this repo [static/tada.wav](https://github.com/xros/opentx_settings/tree/master/static).
 
 #### How to make yours?
 
@@ -64,7 +64,7 @@ Here I put a voice sample here in this repo ![static/tada.wav](https://github.co
 - Export it in `WAV/(Microsoft) signed 16 bit PCM`
 - Save it on SD card (Make sure file name less than 6 chars)
 
-![other helpful tutorials](https://oscarliang.com/taranis-play-sound-track-mp3-files/)
+[other helpful tutorials](https://oscarliang.com/taranis-play-sound-track-mp3-files/)
 
 
 

@@ -36,6 +36,17 @@ Attention: name of firmware can't not be too long. I used "opentx-en-2.1.8.bin" 
 
 Then restart and get into bootloader interface again. 
 
+Change welcome image
+-----------------------
+
+After getting into the bootloader, try to connect your radio to computer. It will be recognized as a USB disk.
+
+
+
+
+
+
+
 Flash firmware
 --------------
 

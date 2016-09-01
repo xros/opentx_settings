@@ -41,7 +41,7 @@ Change welcome image
 
 After getting into the bootloader, try to connect your radio to computer. It will be recognized as a USB disk.
 
-Then use Companion to load the image to your radio along with the firmware. Info from ![here](http://www.open-tx.org/screens-taranis.html)
+Then use Companion to load the image to your radio along with the firmware. Info from [here](http://www.open-tx.org/screens-taranis.html)
 
 
 Personalize poweron voice

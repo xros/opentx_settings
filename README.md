@@ -57,7 +57,7 @@ Here I put a voice sample here in this repo [static/tada.wav](https://github.com
 
 ![audacity](static/audacity.png)
 
-- Use audacity
+- Use audacity ( Free and opensource audio editor http://www.audacityteam.org )
 - Download your voice ( It could be a MP3 file or use TTS voice. Someone reads something and records it into wav files )
 - Open voice file in audacity
 - Change project rate to be 32000 Hz

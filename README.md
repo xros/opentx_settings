@@ -41,6 +41,8 @@ Change welcome image
 
 After getting into the bootloader, try to connect your radio to computer. It will be recognized as a USB disk.
 
+Then use Companion to load the image to your radio along with the firmware. Info from ![here](http://www.open-tx.org/screens-taranis.html)
+
 
 Personalize poweron voice
 -----------------------
@@ -62,6 +64,7 @@ Here I put a voice sample here in this repo ![static/tada.wav](https://github.co
 - Export it in `WAV/(Microsoft) signed 16 bit PCM`
 - Save it on SD card (Make sure file name less than 6 chars)
 
+![other helpful tutorials](https://oscarliang.com/taranis-play-sound-track-mp3-files/)
 
 
 

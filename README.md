@@ -49,7 +49,18 @@ On the SD card, go to find file in `SOUNDS/en/SYSTEM/tada.wav` and replace it wi
 
 ![demo tada](static/tada.png)
 
-Here I put an sample here in this repo ![`static/tada.wav`](https://github.com/xros/opentx_settings/tree/master/static).
+Here I put a voice sample here in this repo ![static/tada.wav](https://github.com/xros/opentx_settings/tree/master/static).
+
+#### How to make yours?
+
+![audacity](static/audacity.png)
+
+- Use audacity
+- Download your voice ( It could be a MP3 file or use TTS voice. Someone reads something and records it into wav files )
+- Open voice file in audacity
+- Change project rate to be 32000 Hz
+- Export it in `WAV/(Microsoft) signed 16 bit PCM`
+- Save it on SD card (Make sure file name less than 6 chars)
 
 
 

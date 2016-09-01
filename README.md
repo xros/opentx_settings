@@ -42,6 +42,15 @@ Change welcome image
 After getting into the bootloader, try to connect your radio to computer. It will be recognized as a USB disk.
 
 
+Personalize poweron voice
+-----------------------
+
+On the SD card, go to find file in `SOUNDS/en/SYSTEM/tada.wav` and replace it with yours. 
+
+![demo tada](static/tada.png)
+
+Here I put an sample here in this repo ![`static/tada.wav`](https://github.com/xros/opentx_settings/static/).
+
 
 
 

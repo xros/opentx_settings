@@ -62,7 +62,7 @@ Here I put a voice sample here in this repo [static/tada.wav](https://github.com
 - Open voice file in audacity
 - Change project rate to be 32000 Hz
 - Export it in `WAV/(Microsoft) signed 16 bit PCM`
-- Save it on SD card (Make sure file name less than 6 chars)
+- Save it on SD card (Make sure file name less equal than 8 chars)
 
 [other helpful tutorials](https://oscarliang.com/taranis-play-sound-track-mp3-files/)
 

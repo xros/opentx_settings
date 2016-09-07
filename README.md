@@ -3,6 +3,9 @@ OpenTX Settings
 
 [Alexander Liu](https://github.com/xros)
 
+> Wanna make your own drone?
+> See [wiki how I made my DIY drone](https://github.com/xros/opentx_settings/wiki)
+
 [OpenTX](http://www.open-tx.org) is an opensource radio control system.
 
 It provides radio transmitter firmware, and radio transmitter PC software for simulation.

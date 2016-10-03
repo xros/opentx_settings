@@ -5,6 +5,7 @@ OpenTX Settings
 
 > Wanna make your own drone?
 > See [wiki how I made my DIY drone](https://github.com/xros/opentx_settings/wiki)
+> See [my Drone Project on Open Science Framework](https://osf.io/bp3sg/)
 
 [OpenTX](http://www.open-tx.org) is an opensource radio control system.
 
